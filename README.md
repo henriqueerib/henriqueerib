@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 Olá! Me chamo Luiz Henrique, tenho 22 anos e sou natural de Fortaleza – CE.
-Concluí o Ensino Médio no Colégio Ari de Sá Cavalcante e atualmente sou estudante de Ciência da Computação na UNIFOR (Universidade de Fortaleza).
+Atualmente sou estudante de Ciência da Computação na UNIFOR (Universidade de Fortaleza).
 
 Tenho grande interesse na área de tecnologia, quero me  tornar grande profissional. Utilizo este GitHub para compartilhar projetos acadêmicos, estudos práticos e experiências adquiridas ao longo da graduação.
 
