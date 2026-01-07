@@ -1,4 +1,4 @@
-## Luiz Henrique Ribeiro Alexandre Braga
+## Luiz Henrique Ribeiro
 
 **`Desenvolvedor FullStack`**
 
